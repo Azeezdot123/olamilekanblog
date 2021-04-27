@@ -10,7 +10,7 @@ This is a blog i created using django framework. it a blog where user can create
 <p>django-heroku</p> 
 <p>python 3.9</p>
 
-<h2>Screenshot</h2>
+
 ![1](https://user-images.githubusercontent.com/60788985/116232974-ae65dc00-a752-11eb-92ea-d75e4f11a325.jpg)
 
 
