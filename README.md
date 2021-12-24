@@ -1,6 +1,6 @@
 <h2>olamilekanblog</h2>
 This is a blog i created using django framework. it a blog where user can created post.
-<p>The project link http://olamilekanblog.herokuapp.com</p>
+<p>The project link https://olamblog.herokuapp.com/</p>
 
 <h2>Requirements (Prerequisites)</h2>
 <p>django 3.2</p>
